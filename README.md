@@ -7,3 +7,17 @@ This course seeks to give students a solid foundation in machine learning and pr
 data science. Unlike traditional courses, there is a strong emphasis on career development in the form of
 open-source contributions, public writing, and informal interviews with data science professionals. By the
 end of the course students should be ready to attain a data science job.
+
+
+### Course Content 
+* Python
+* Pandas
+* NumPy
+* Time Series Data
+* Data Visualization 
+* Linear Regression 
+* Logisitic Regression
+* Decision Trees
+* Random Forests
+* Ensemble Methods
+* Neural Networks
