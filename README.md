@@ -21,4 +21,4 @@ end of the course students should be ready to attain a data science job.
 * Random Forests
 * Ensemble Methods
 * Neural Networks
-<img width="344" alt="Screen Shot 2021-05-14 at 5 29 33 PM" src="https://user-images.githubusercontent.com/71193439/118333573-f5392d00-b4d9-11eb-90c5-6c497a6219da.png">
+<img width="800" alt="Screen Shot 2021-05-14 at 5 29 33 PM" src="https://user-images.githubusercontent.com/71193439/118333573-f5392d00-b4d9-11eb-90c5-6c497a6219da.png">
