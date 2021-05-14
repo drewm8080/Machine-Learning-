@@ -1,5 +1,5 @@
 # ITP 449 - Machine Learning 
-This is a repository dedicated to practicing machine learning through the class ITP 449
+This is a repository dedicated to practicing machine learning through the class ITP 449 -- Applications of Machine Learning. This is a class taken in the Viterbi School of Engineering at the University of Southern California.
 
 ### Course Description 
 
